@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/vixrant/vixrant/master/devicons/svgs/linkedin.svg" width="18">
   </a>
   &ThickSpace;
-  <a href="https://www.twitter.com/vixrant">
-    <img src="https://raw.githubusercontent.com/vixrant/vixrant/master/devicons/svgs/twitter.svg" width="18">
+  <a href="https://vk.com/id_vitosek">
+    <img src="https://www.flaticon.com/svg/vstatic/svg/145/145813.svg?token=exp=1614187723~hmac=583cc0fd035ca0c7733039f9c817dc41" width="18">
   </a>
 </div>
