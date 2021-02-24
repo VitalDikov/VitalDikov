@@ -1,1 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgifs%2Fcomments%2F35gb9z%2Fdisco_cat%2F&psig=AOvVaw3Hg789tqVzhBup-ktu4na7&ust=1614272059590000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCL-5r-gu8CFQAAAAAdAAAAABAE" width="30px">
+<img src="https://i.imgur.com/S6Rthjy.gif" width="30px">
