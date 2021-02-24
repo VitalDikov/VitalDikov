@@ -4,7 +4,7 @@
 
 <div align="center">
   <div>ITMO University student, Second year </div>
-  <div>Fall in love with *C#*</div>
+  <div>Fall in love with C#</div>
   <div>Future Fulstack Developer</div>
 </div>
 
