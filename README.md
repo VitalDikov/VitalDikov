@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="[https://media3.giphy.com/media/wcjtdRkYDK0sU/giphy.gif?cid=ecf05e47tsm1rtay5g4jlf5s19cgo6vv5lrj62us77e62pw2&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://usagif.com/wp-content/uploads/2021/4fh5wi/troll-face-26.gif)" width="200" height="200">
+	<img src="https://usagif.com/wp-content/uploads/2021/4fh5wi/troll-face-26.gif" width="200" height="200">
 </div>
 
 <div align="center">
