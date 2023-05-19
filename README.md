@@ -4,6 +4,5 @@
 
 <div align="center">
   <div>ITMO University student, 4 year </div>
-  <div>Fallen in love with .NET</div>
 </div>
 
