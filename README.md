@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <div>ITMO University student, 4-th year </div>
-	<div>C# Developer in NNTC</div>
+	<div>WPF Developer in NNTC</div>
 </div>
 
